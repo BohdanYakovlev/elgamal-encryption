@@ -25,6 +25,7 @@ cd elgamal-encryption
 ```
 go run main.go
 ```
+5. The program will generate a pair of public and private keys, encrypt two sample messages, and then decrypt them.
 ## Overview
 The ElGamal encryption system consists of three algorithms:
 
